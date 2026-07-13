@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rasanjanakaveesha554-eng.github.io/sleep-calculator/sitemap.xml
